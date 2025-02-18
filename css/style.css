@@ -127,7 +127,9 @@ color: #404BBF;
 
 .first-section {
 background: #2e2f42;
-padding: 188px
+padding-top: 188px; 
+padding-top: 188px;
+padding-bottom: 188px;
 }
 
 .first-title {
