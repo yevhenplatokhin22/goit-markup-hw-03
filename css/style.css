@@ -189,6 +189,10 @@ display: flex;
 gap: 24px;
 }
 
+.second-section-list-item {
+    width: calc((100% - 72px) / 4);
+}
+
 .second-section-title {
 font-weight: 500;
 font-size: 20px;
